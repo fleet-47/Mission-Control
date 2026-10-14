@@ -1,13 +1,12 @@
 # Mission-Control
 
-A Rust-based project-management core for human–agent pair programming and multi-agent orchestration. Fleet is its first intended user.
+A Rust-based project-management core for human–agent pair programming and multi-agent orchestration. 
 
-**Status: design in progress.** This repository currently records the project and its design process; it does not yet provide a working orchestration engine.
+## Agents start here: 
 
-## Start here
-
-- [Project brief](docs/PROJECT.md): purpose, first milestone, and delivery boundaries.
-- [Wayfinder map](https://github.com/fleet-47/Mission-Control/issues/1): agreed constraints, open design areas, and links to resolved decisions as they emerge.
+1. check .agents/AGENTS.md for repo rules, conventions and follow pointers when relevant.
+2. check .fleet/docs for any active planning documentation.
+3. checg Fleet-47/Fleet.Agents for global rules, skill packs and other relevant resouces $SHIP_ROOT/.agents if running on the users device.
 
 ## First milestone
 
